@@ -33,14 +33,14 @@ hr {
 /* backgrounds
     background-image:url(/m/img/main/bg.png);
      */
-/* .main-bg {
+.main-bg {
+    background-image:url(/img/bg.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
-    background-color: #16141A;
     display: block;
-} */
+}
 
 
 /* Nav Bar */
