@@ -1,1 +1,0 @@
-# valkyteq.xyz
