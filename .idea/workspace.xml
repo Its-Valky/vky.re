@@ -17,11 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bd5645a-d4be-4c33-ac2b-8ae82ecbce85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font/BRUSHSCI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/pulse.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/home_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/pulse.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/pulse.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599070967323</updated>
-      <workItem from="1599070968693" duration="3609000" />
+      <workItem from="1599070968693" duration="4545000" />
     </task>
     <servers />
   </component>
