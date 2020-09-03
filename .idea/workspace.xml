@@ -27,14 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2bd5645a-d4be-4c33-ac2b-8ae82ecbce85" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font/BRUSHSCI.TTF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/pulse.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/burgerX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/scroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599070967323</updated>
       <workItem from="1599070968693" duration="7090000" />
-      <workItem from="1599142116434" duration="606000" />
+      <workItem from="1599142116434" duration="1068000" />
     </task>
     <servers />
   </component>
